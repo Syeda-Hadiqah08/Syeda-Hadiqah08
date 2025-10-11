@@ -44,8 +44,10 @@ Welcome to my GitHub profile! I’m a motivated **Data Analyst** passionate abou
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syeda-Hadiqah08&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syeda-Hadiqah08&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Hadiqah08&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Syeda-Hadiqah08&theme=radical" alt="GitHub Streak" height="165" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Hadiqah08&layout=compact&theme=radical" alt="Top Languages" />
 </p>
