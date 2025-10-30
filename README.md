@@ -32,13 +32,17 @@ Welcome to my GitHub profile! I’m a motivated **Data Analyst** passionate abou
 
 ## 🌟 **Featured Projects**
 
+- **🍇 Wild Blueberry Yield Prediction with Machine Learning (ML)**
+  End-to-end predictive modeling project that leverages exploratory data analysis, feature engineering, and machine learning to forecast wild blueberry yields. The work compares model performance, documents  preprocessing and tuning steps, and includes visualizations to support data-driven agronomic planning.
+  **🔗 Repo:** [Wild Blueberry Yield Prediction with ML](https://github.com/Syeda-Hadiqah08/Wild-Blueberry-Yield-Prediction-with-Machine-Learning)
+
 - 🏥 **Healthcare Patients Analytics using Power BI**  
-  Interactive dashboard to analyze patient demographics, outcomes, and hospital performance for healthcare organizations.  
-  🔗 **Repo:** [Patients Wait List Analytics](https://github.com/Syeda-Hadiqah08/Patients-Wait-List-Analytics)
+  Interactive Power BI dashboard to analyze patient demographics, waiting times, and hospital performance for healthcare organizations.  
+  **🔗 Repo:** [Patients Wait List Analytics](https://github.com/Syeda-Hadiqah08/Patients-Wait-List-Analytics)
 
 - 🏡 **Housing Prices Analysis using Python**  
   Exploratory data analysis (EDA) of housing market trends using Python libraries (Pandas, Matplotlib, Seaborn).  
-  🔗 **Repo:** [Housing Price Analysis](https://github.com/Syeda-Hadiqah08/Housing-Price-Analysis)
+  **🔗 Repo:** [Housing Price Analysis](https://github.com/Syeda-Hadiqah08/Housing-Price-Analysis)
 
 ---
 
